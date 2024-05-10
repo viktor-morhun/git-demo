@@ -1,1 +1,8 @@
-roses are red
+Roses are red,
+Violets are blue,
+In books and lectures,
+My passion is true.
+
+
+Pages unfurl, revealing the world's lore,
+Every sentence, a key to explore.
