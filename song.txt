@@ -1,5 +1,6 @@
 Roses are red,
-Violets are blue,
+Violets are blue.
+
 In books and lectures,
 My passion is true.
 
